@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">HOLLERADS</string>
+    <string name="apptitle">The Innovative Ad Agency That Adapts to Your Brand.</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="enter_pass">Enter Password</string>
+
+    <string-array name="webdeveloper">
+        <item>web 1</item>
+        <item>web 2</item>
+        <item>web 3</item>
+        <item>web 4</item>
+        <item>web 5</item>
+        <item>web 6</item>
+        <item>web 7</item>
+        <item>web 8</item>
+    </string-array>
+    <string-array name="appdeveloper">
+        <item>app 1</item>
+        <item>app 2</item>
+        <item>app 3</item>
+        <item>app 4</item>
+        <item>app 5</item>
+        <item>app 6</item>
+        <item>app 7</item>
+        <item>app 8</item>
+    </string-array>
+    <string-array name="logodesign">
+        <item>logo design 1</item>
+        <item>logo design 2</item>
+        <item>logo design 3</item>
+        <item>logo design 4</item>
+        <item>logo design 5</item>
+        <item>logo design 6</item>
+        <item>logo design 7</item>
+        <item>logo design 8</item>
+    </string-array>
+    <string-array name="seo">
+        <item>seo 1</item>
+        <item>seo 2</item>
+        <item>seo 3</item>
+        <item>seo 4</item>
+        <item>seo 5</item>
+        <item>seo 6</item>
+        <item>seo 7</item>
+        <item>seo 8</item>
+    </string-array>
+    <string-array name="smo">
+        <item>smo 1</item>
+        <item>smo 2</item>
+        <item>smo 3</item>
+        <item>smo 4</item>
+        <item>smo 5</item>
+        <item>smo 6</item>
+        <item>smo 7</item>
+        <item>smo 8</item>
+    </string-array>
+    <string-array name="smm">
+        <item>smm 1</item>
+        <item>smm 2</item>
+        <item>smm 3</item>
+        <item>smm 4</item>
+        <item>smm 5</item>
+        <item>smm 6</item>
+        <item>smm 7</item>
+        <item>smm 8</item>
+    </string-array>
+    <string-array name="marcketing">
+        <item>marcketing 1</item>
+        <item>marcketing 2</item>
+        <item>marcketing 3</item>
+        <item>marcketing 4</item>
+        <item>marcketing 5</item>
+        <item>marcketing 6</item>
+
+    </string-array>
+    <string-array name="contentwriting">
+        <item>contentwriting 1</item>
+        <item>contentwriting 2</item>
+        <item>contentwriting 3</item>
+        <item>contentwriting 4</item>
+        <item>contentwriting 5</item>
+
+    </string-array>
+    <integer-array name="salary">
+        <item>20000</item>
+        <item>12000</item>
+        <item>14000</item>
+        <item>40000</item>
+        <item>28000</item>
+        <item>70000</item>
+        <item>45000</item>
+        <item>32000</item>
+    </integer-array>
+</resources>
